@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">老梁音乐</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="local_music">本地音乐</string>
+    <string name="my_collect">我的收藏</string>
+    <string name="net_music">在线音乐</string>
+    <string name="download_manager">下载管理</string>
+    <string name="select_theme">更换主题</string>
+</resources>

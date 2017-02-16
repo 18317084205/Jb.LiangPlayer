@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash.png",
+        "source": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\frame_gallery_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\src\\main\\res\\drawable-hdpi\\frame_gallery_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\src\\main\\res\\drawable-hdpi\\background_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\frame_gallery_checked.9.png",
+        "source": "D:\\AndroidStudioProjects\\Jb.LiangPlayer\\app\\src\\main\\res\\drawable-hdpi\\frame_gallery_checked.9.png"
+    }
+]

@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/Jb.LiangPlayer/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/native-lib.dir
+D:/AndroidStudioProjects/Jb.LiangPlayer/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+D:/AndroidStudioProjects/Jb.LiangPlayer/app/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir

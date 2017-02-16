@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jb.LiangPlayer.iml" filepath="$PROJECT_DIR$/Jb.LiangPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skin_black/skin_black.iml" filepath="$PROJECT_DIR$/skin_black/skin_black.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skin_green/skin_green.iml" filepath="$PROJECT_DIR$/skin_green/skin_green.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skin_orange/skin_orange.iml" filepath="$PROJECT_DIR$/skin_orange/skin_orange.iml" />
+    </modules>
+  </component>
+</project>
